@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a5c959ed6a0fd941",
@@ -191,14 +192,14 @@
   },
   "active": "6281beef3038776b",
   "lastOpenFiles": [
-    "README.md",
-    "Session Notes/2 - Kid Rescue.md",
-    "Session Notes/1 - The Search for Steven.md",
+    "Session Summaries/2 - Kid Rescue.md",
     "Crew Sheet.md",
+    "README.md",
+    "Session Summaries/1 - The Search for Steven.md",
     "Images",
     "Images/Ledger's Signet.jpg",
     "Evelyn's Signet.jpg",
     "Welcome.md",
-    "Session Notes"
+    "Session Summaries"
   ]
 }
