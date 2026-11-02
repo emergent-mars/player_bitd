@@ -53,8 +53,8 @@
  _____________   ____________    ____________    ____________    ______________  
 |[ ]          | |[X]          | |[X]          | |[ ]          | |[ ]           |
 |Drug Den:    | |Informants:  | |             | |             | |Lookouts:     |
-|Tier roll -  |_|+1d to gather| |    Lair     |_|    Turf     |_|+1d to survey |
-|heat = coin  |_|information  | |             |_|             |_|or hunt on    |
+|Tier roll -  |_|+1d to gather|_|    Lair     |_|    Turf     |_|+1d to survey |
+|heat = coin  |_|information  |_|             |_|             |_|or hunt on    |
 |in downtime. | |for scores   | |             | |             | |your turf     |
 |             | |             | |             | |             | |              |
  ____________    ____________    _____________   _____________   ______________
