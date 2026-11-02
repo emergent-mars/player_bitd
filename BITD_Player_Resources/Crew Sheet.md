@@ -43,23 +43,26 @@
 ```
  _____________   ____________    ____________    ____________    ______________ 
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Interrogati- | |             | | Loyal Fence:| |Gambling Den:| |Tavern: +1d to| |-on room: +1d|_|    Turf     |_| +2 coin for | |Tier roll -  |_|consort and   |
+|Interrogati- | |             | | Loyal Fence:| |Gambling Den:| |Tavern: +1d to|
+|-on room: +1d|_|    Turf     |_| +2 coin for | |Tier roll -  |_|consort and   |
 |+1d command  |_|             |_| burglary or | |heat = coin  |_|sway on site. |
 |and sway on  | |             | | robbery.    | |in downtime. | |              |
 |site         | |             | |             | |             | |              |
  _____________   _____________   _____________   _____________   ______________
-      | |                             | |             | |             | |
+      | |                             | |             | |             | |       
  _____________   ____________    ____________    ____________    ______________  
 |[ ]          | |[X]          | |[X]          | |[ ]          | |[ ]           |
-|Drug Den:    | |Informants:  | |             | |             | |Lookouts:     | |Tier roll -  |_|+1d to gather| |    Lair     |_|    Turf     |_|+1d to survey |
+|Drug Den:    | |Informants:  | |             | |             | |Lookouts:     |
+|Tier roll -  |_|+1d to gather| |    Lair     |_|    Turf     |_|+1d to survey |
 |heat = coin  |_|information  | |             |_|             |_|or hunt on    |
 |in downtime. | |for scores   | |             | |             | |your turf     |
 |             | |             | |             | |             | |              |
  ____________    ____________    _____________   _____________   ______________
-      | |             | |             | |                             | |
+      | |             | |             | |                             | |       
  _____________   ____________    ____________    ____________    ______________  
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Hagfish Farm  | |Infirmary:    | |Covert Drops:| |             | |Secret Pathway| |Body disposal|_|+1d to       | |+2 coin for  |_|    Turf     |_|+1d to        |
+|Hagfish Farm  | |Infirmary:    | |Covert Drops:| |             | |Secret Pathway|
+|Body disposal|_|+1d to       | |+2 coin for  |_|    Turf     |_|+1d to        |
 |+1d to reduce|_|healing roll.| |espionage or |_|             |_|engagement for|
 |heat after   | |             | |sabotage.    | |             | |stealth plans |
 |killing.     | |             | |             | |             | |              |
