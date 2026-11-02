@@ -59,13 +59,13 @@
 |             | |             | |             | |             | |              |
  ____________    ____________    _____________   _____________   ______________
       | |             | |             | |                             | |       
- _____________   ____________    ____________    ____________    ______________  
+ _____________   ____________    ____________    ____________    ______________
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Hagfish       | |Infirmary:    | |Covert Drops:| |             | |Secret Pathway|
-|Farm: Body   |_|+1d to       | |+2 coin for  |_|    Turf     |_|+1d to        |
-|disposal, +1d|_|healing roll.| |espionage or |_|             |_|engagement for|
-|reduce heat  | |             | |sabotage.    | |             | |stealth plans |
-|from killing.| |             | |             | |             | |              |
+|Hagfish Farm  | |Infirmary:    | |Covert Drops:| |             | |Secret Pathway|
+|Body disposal|_|+1d to       | |+2 coin for  |_|    Turf     |_|+1d to        |
+|+1d to reduce|_|healing roll.| |espionage or |_|             |_|engagement for|
+|heat after   | |             | |sabotage.    | |             | |stealth plans |
+|killing.     | |             | |             | |             | |              |
  _____________   _____________   _____________   _____________   ______________
 ```
 
