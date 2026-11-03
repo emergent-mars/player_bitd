@@ -1,7 +1,8 @@
 # The Pests
 [Google Sheets Version](https://docs.google.com/spreadsheets/d/1b3VTkRZ1RRPJXROKDuFylhLryp4S9uwk18t8q36msAo/edit?usp=sharing)
 
-**NAME:**  The Pests |  **REPUTATION:**  Savvy | **DISTRICT:**  Crow's Foot
+**NAME:**  The Pests  -|-   **REPUTATION:**  Savvy  -|-  **DISTRICT:**  Crow's Foot
+
 **LAIR:**  Abandoned cistern, hidden and forgotten by the city above.
 
 ###### XP Triggers
