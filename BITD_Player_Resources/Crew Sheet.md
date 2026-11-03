@@ -60,7 +60,7 @@
 .     ░░              ░░              ░░                               ░░      .
 --------------- --------------- --------------- --------------- ----------------
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Fish Den:    | |Informants:  | |Covert Drops | |             | |Lookouts:     |
+|Fish Den:    | |Informants:  | |Covert Drops | |             | |Pathways:     |
 |Body disposal|░|+1d to       | |+2 coin for  |░|    Turf     |░|+1d to        |
 |+1d to reduce| |healing roll.| |espionage or | |             | |engagement for|
 |heat after   | |             | |sabotage.    | |             | |stealth plans |
