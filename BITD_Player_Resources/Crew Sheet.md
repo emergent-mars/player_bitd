@@ -12,8 +12,16 @@
 - Bolster your crew's reputation or develop a new one.
 - Express the goals, drives, inner conflict, or essential nature of the crew.
 
-###### Contacts:
+###### Contacts + Factions:
 *Fitz Atwert*, a collector.
+
+| Faction        | Rank |
+| -------------- | ---: |
+| Lampblacks     |   +2 |
+| Red Sashes     |   -1 |
+| Crows          |   -2 |
+| Fog Hounds     |   -1 |
+| Dimmer Sisters |   +1 |
 
 #### SPECIAL ABILITIES | `CREW XP: [X] [X] [X] [X] [X] [X] [X] [X]`
 - **Everyone Steals:**  Each PC may add +1 action rating to Prowl, Finesse, or Tinker (up to a max rating of 3).
