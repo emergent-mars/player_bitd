@@ -43,7 +43,7 @@
 ```
 --------------- --------------- --------------- --------------- ----------------
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Interrogati- |_|             |_| Loyal Fence:| |Gambling Den:|_|Tavern: +1d to|
+|Interrogati- |_|             |_|Loyal Fence: | |Gambling Den:|_|Tavern: +1d to|
 |-on room: +1d ▭     Turf      ▭  +2 coin for | |Tier roll -   ▭ consort and   |
 |+1d command  |_|             |_| burglary or | |heat = coin  |_|sway on site. |
 |and sway on  | |             | | robbery.    | |in downtime. | |              |
