@@ -23,7 +23,7 @@
 | Fog Hounds     |   -1 |
 | Dimmer Sisters |   +1 |
 
-#### SPECIAL ABILITIES | `CREW XP: [X] [X] [X] [X] [X] [X] [X] [X]`
+#### SPECIAL ABILITIES | `CREW XP: [] [] [] [] [] [] [] []`
 - **Everyone Steals:**  Each PC may add +1 action rating to Prowl, Finesse, or Tinker (up to a max rating of 3).
 - **Second Story:**  When you execute a clandestine infiltration, you get +1d to the engagement roll.
 
@@ -45,9 +45,9 @@
 #### Claims + Resources
 **+1d to gather information for scores.**
 
-| REP                                    | TURF                                 | Heat                                                      |
-| :------------------------------------- | :----------------------------------- | --------------------------------------------------------- |
-| [x] [x] [x] [x] [x] [x]<br>HOLD *None* | **[] [] [] [] [] []**<br>TIER *Zero* | **[x] [x] [x] [] [] [] [] [] []**<br>Wanted Level: *None* |
+| REP                                                            | TURF                                 | Heat                                                              |
+| :------------------------------------------------------------- | :----------------------------------- | ----------------------------------------------------------------- |
+| [**x**] [**x**] [**x**] [**x**] [**x**] [**x**]<br>HOLD *None* | **[] [] [] [] [] []**<br>TIER *Zero* | [**x**] [**x**] [**x**] [] [] [] [] [] []<br>Wanted Level: *None* |
 
 ```
 --------------- --------------- --------------- --------------- ----------------
