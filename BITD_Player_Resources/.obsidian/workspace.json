@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crew Sheet.md",
+                "file": "3- World + Lore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crew Sheet"
+              "title": "3- World + Lore"
             }
           }
         ],
@@ -220,10 +220,10 @@
   },
   "active": "58b89f29d82fa7fe",
   "lastOpenFiles": [
+    "Crew Sheet.md",
     "3- World + Lore.md",
     "2- Downtime.md",
     "1- Anatomy of a Score.md",
-    "Crew Sheet.md",
     "Session Summaries/2 - Kid Rescue.md",
     "README.md",
     "Session Summaries/1 - The Search for Steven.md",
