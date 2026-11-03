@@ -43,27 +43,27 @@
 ```
 --------------- --------------- --------------- --------------- ----------------
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Interrogati- | |             | | Loyal Fence:| |Gambling Den:| |Tavern: +1d to|
+|Interrogati- |_|             |_| Loyal Fence:| |Gambling Den:|_|Tavern: +1d to|
 |-on room: +1d ▭     Turf      ▭  +2 coin for | |Tier roll -   ▭ consort and   |
-|+1d command  | |             | | burglary or | |heat = coin  | |sway on site. |
+|+1d command  |_|             |_| burglary or | |heat = coin  |_|sway on site. |
 |and sway on  | |             | | robbery.    | |in downtime. | |              |
 |site         | |             | |             | |             | |              |
 -------▯------- --------------- -------▯------- -------▯------- -------▯--------
 .     | |                             | |             | |             | |      .
 -------▯------- --------------- -------▯------- -------▯------- -------▯--------
 |[ ]          | |[X]          | |[X]          | |[ ]          | |[ ]           |
-|Drug Den:    | |Informants:  | |             | |             | |Lookouts:     |
+|Drug Den:    |_|Informants:  |_|             |_|             |_|Lookouts:     |
 |Tier roll -   ▭ +1d to gather ▭     LAIR      ▭     Turf      ▭ +1d to survey |
-|heat = coin  | |information  | |             | |             | |or hunt on    |
+|heat = coin  |_|information  |_|             |_|             |_|or hunt on    |
 |in downtime. | |for scores   | |             | |             | |your turf     |
 |             | |             | |             | |             | |              |
 -------▯------- -------▯------- -------▯------- --------------- --------▯-------
 .     | |             | |             | |                              | |     .
 -------▯------- -------▯------- -------▯------- --------------- --------▯-------
 |[ ]          | |[ ]          | |[ ]          | |[ ]          | |[ ]           |
-|Fish Den:    | |Healing:     | |Covert Drops | |             | |Pathways:     |
+|Fish Den:    |_|Healing:     | |Covert Drops |_|             |_|Pathways:     |
 |Body disposal ▭ +1d to       | |+2 coin for   ▭     Turf      ▭ +1d to        |
-|+1d to reduce| |healing roll.| |espionage or | |             | |engagement for|
+|+1d to reduce|_|healing roll.| |espionage or |_|             |_|engagement for|
 |heat after   | |             | |sabotage.    | |             | |stealth plans |
 |killing.     | |             | |             | |             | |              |
 --------------- --------------- --------------- --------------- ----------------
