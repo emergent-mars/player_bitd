@@ -12,7 +12,7 @@
 - Bolster your crew's reputation or develop a new one.
 - Express the goals, drives, inner conflict, or essential nature of the crew.
 
-###### Contacts + Factions:
+#### Contacts + Factions:
 *Fitz Atwert*, a collector.
 
 | Faction        | Rank |
